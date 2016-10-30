@@ -1,0 +1,7 @@
+e:\文档\visual studio 2015\Projects\TTSCommandLine\TTSCommandLine\bin\Debug\TTSCommandLine.exe
+e:\文档\visual studio 2015\Projects\TTSCommandLine\TTSCommandLine\bin\Debug\TTSCommandLine.pdb
+e:\文档\visual studio 2015\Projects\TTSCommandLine\TTSCommandLine\bin\Debug\Interop.SpeechLib.dll
+e:\文档\visual studio 2015\Projects\TTSCommandLine\TTSCommandLine\obj\Debug\Interop.SpeechLib.dll
+e:\文档\visual studio 2015\Projects\TTSCommandLine\TTSCommandLine\obj\Debug\TTSCommandLine.csproj.ResolveComReference.cache
+e:\文档\visual studio 2015\Projects\TTSCommandLine\TTSCommandLine\obj\Debug\TTSCommandLine.exe
+e:\文档\visual studio 2015\Projects\TTSCommandLine\TTSCommandLine\obj\Debug\TTSCommandLine.pdb
